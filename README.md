@@ -1,6 +1,8 @@
 # Termux Developer Setups
 An easy to use script for installation of a simple developer setup in termux.
 
+<p align='center'><a href="https://api.daily.dev/get?r=Koleksibot"><img src="https://raw.githubusercontent.com/tahaluindo/vscodeandroid/main/demo/Screenshot_2023-01-22-18-10-53-801_com.kiwibrowser.browser.jpg" width="150" alt="LulzGhost-Team BOT's Dev Card"/></a></p>
+
 ## Requirements
 - No root permission is required to make this work
 - Android 7+ phone
