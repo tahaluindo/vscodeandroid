@@ -15,8 +15,8 @@ To start the installation follow the steps below.
 
 ```
 pkg update -y && pkg upgrade -y
-pkg install wget
-wget https://raw.githubusercontent.com/hreikin/termux-dev-setups/main/install.sh
+pkg install wget && pkg install git && pkg install bash
+wget https://raw.githubusercontent.com/tahaluindo/vscodeandroid/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
@@ -105,7 +105,7 @@ The script `post-install.sh` is a small convenience script which handles a few t
 To use it once you have succesfully installed your developer setup run the following commands:
 
 ```
-wget https://raw.githbusercontent.com/hreikin/termux-dev-setups/main/post-install.sh
+wget https://raw.githubusercontent.com/tahaluindo/vscodeandroid/main/post-install.sh
 chmod +x post-install.sh
 ./post-install.sh
 ```
